@@ -1,0 +1,40 @@
+h1 {font-family: Arial;
+            color: #2F4F4F;
+            text-align: center;}
+        h2 {font-family: Arial;
+            color: #808000;
+           text-align: left;}
+        h3 {font-family: "Comic Sans", "Arial";
+            color: black;
+           text-align: center;}
+		h4 {font-family: "Arial";
+			text-align: left;
+	            color: #000080;}
+	    h5 {font-family: "Georgia";}
+      table {border-collapse: collapse;}
+       table, td, th {border: 1px solid black;
+	                  padding: 0.2cm 1cm;
+					  background-color: #98FB98;}
+            img {
+    float: left;
+			
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 1000px;
+    background-color: #1E90FF;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+/* Change the link color on hover */
+li a:hover {
+    background-color: #4682B4;
+    color: white;
+}
